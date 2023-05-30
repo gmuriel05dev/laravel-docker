@@ -8,7 +8,9 @@
 
 1 . Configurar base de datos, chequear .env
 
-2 . correr migraciones 
+2 . docker-compose up -d
+
+3 . correr migraciones 
 
 
 ```
