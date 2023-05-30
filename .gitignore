@@ -1,0 +1,6 @@
+/src/vendor
+
+mysql/*
+
+!mysql/.gitkeep
+
