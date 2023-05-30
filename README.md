@@ -6,11 +6,13 @@
 -laravel 8
 ```
 
-1 . Configurar base de datos, chequear .env
+1 . cp ./src/.env.example ./src/.env
 
-2 . docker-compose up -d
+2 . Configurar base de datos, chequear ./src/.env.example
 
-3 . correr migraciones 
+3 . docker-compose up -d
+
+4 . correr migraciones 
 
 
 ```
